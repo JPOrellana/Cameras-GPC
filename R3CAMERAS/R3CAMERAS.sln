@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "R3CAMERAS", "R3CAMERAS\R3CAMERAS.pyproj", "{D432739B-8C6B-4142-B433-7CD893A54A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D432739B-8C6B-4142-B433-7CD893A54A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D432739B-8C6B-4142-B433-7CD893A54A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9D187A-8359-418C-9F0A-E234DB58E6B7}
+	EndGlobalSection
+EndGlobal
